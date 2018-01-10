@@ -6,7 +6,7 @@
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/carlaflagco/hear-me-type-app.git",
+  "repository": "https://github.com/carlaflagco/hear-me-type-app",
   "keywords": [
     "Electron",
     "quick",
